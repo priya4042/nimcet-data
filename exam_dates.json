@@ -1,0 +1,509 @@
+{
+  "updated": "2026-09-24",
+  "exams": [
+    {
+      "id": "nimcet",
+      "applyUrl": "https://nimcet.admissions.nic.in/",
+      "events": [
+        {
+          "kind": "notice",
+          "month": 3,
+          "day": 2,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formOpen",
+          "month": 3,
+          "day": 3,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 5,
+          "day": 1,
+          "yearOffset": 0
+        },
+        {
+          "kind": "correction",
+          "month": 5,
+          "day": 5,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 5,
+          "day": 27,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 6,
+          "day": 6,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 6,
+          "day": 10,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 6,
+          "day": 29,
+          "yearOffset": 0
+        },
+        {
+          "kind": "counselling",
+          "month": 6,
+          "day": 30,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "cuet_pg",
+      "applyUrl": "https://exams.nta.nic.in/cuet-pg/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 12,
+          "day": 14,
+          "yearOffset": -1
+        },
+        {
+          "kind": "formClose",
+          "month": 1,
+          "day": 23,
+          "yearOffset": 0
+        },
+        {
+          "kind": "correction",
+          "month": 1,
+          "day": 28,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 3,
+          "day": 3,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 3,
+          "day": 6,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 4,
+          "day": 11,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 4,
+          "day": 24,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "mah_mca_cet",
+      "applyUrl": "https://cetcell.mahacet.org/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 1,
+          "day": 7,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 2,
+          "day": 23,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 3,
+          "day": 26,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 3,
+          "day": 30,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 4,
+          "day": 30,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 5,
+          "day": 19,
+          "yearOffset": 0
+        },
+        {
+          "kind": "counselling",
+          "month": 7,
+          "day": 4,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "wb_jeca",
+      "applyUrl": "https://wbjeeb.in/jeca/",
+      "events": [
+        {
+          "kind": "notice",
+          "month": 4,
+          "day": 8,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formOpen",
+          "month": 4,
+          "day": 9,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 4,
+          "day": 22,
+          "yearOffset": 0
+        },
+        {
+          "kind": "correction",
+          "month": 4,
+          "day": 24,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 6,
+          "day": 4,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 6,
+          "day": 14,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 8,
+          "day": 3,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "tancet",
+      "applyUrl": "https://tancet.annauniv.edu/tancet/",
+      "events": [
+        {
+          "kind": "notice",
+          "month": 3,
+          "day": 10,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formOpen",
+          "month": 3,
+          "day": 16,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 4,
+          "day": 15,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 4,
+          "day": 27,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 5,
+          "day": 9,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 5,
+          "day": 22,
+          "yearOffset": 0
+        },
+        {
+          "kind": "counselling",
+          "month": 6,
+          "day": 4,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "ap_icet",
+      "applyUrl": "https://cets.apsche.ap.gov.in/ICET/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 2,
+          "day": 5,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 3,
+          "day": 23,
+          "yearOffset": 0
+        },
+        {
+          "kind": "correction",
+          "month": 4,
+          "day": 6,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 4,
+          "day": 15,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 5,
+          "day": 2,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 5,
+          "day": 5,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 5,
+          "day": 16,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "tg_icet",
+      "applyUrl": "https://icet.tgche.ac.in/TGICET/TGICET_ApplicationForm.aspx",
+      "events": [
+        {
+          "kind": "notice",
+          "month": 2,
+          "day": 6,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formOpen",
+          "month": 2,
+          "day": 12,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 3,
+          "day": 31,
+          "yearOffset": 0
+        },
+        {
+          "kind": "correction",
+          "month": 4,
+          "day": 18,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 5,
+          "day": 4,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 5,
+          "day": 13,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 5,
+          "day": 29,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 6,
+          "day": 12,
+          "yearOffset": 0
+        },
+        {
+          "kind": "counselling",
+          "month": 7,
+          "day": 31,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "ojee",
+      "applyUrl": "https://ojee.nic.in/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 1,
+          "day": 28,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 3,
+          "day": 22,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 4,
+          "day": 25,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 5,
+          "day": 4,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 5,
+          "day": 16,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 6,
+          "day": 8,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "kerala_mca",
+      "applyUrl": "https://lbsapplications.kerala.gov.in/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 4,
+          "day": 15,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 5,
+          "day": 26,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 6,
+          "day": 28,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 7,
+          "day": 16,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "karnataka_pgcet",
+      "applyUrl": "https://cetonline.karnataka.gov.in/kea/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 3,
+          "day": 23,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 4,
+          "day": 30,
+          "yearOffset": 0
+        },
+        {
+          "kind": "admitCard",
+          "month": 6,
+          "day": 7,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 6,
+          "day": 14,
+          "yearOffset": 0
+        },
+        {
+          "kind": "answerKey",
+          "month": 6,
+          "day": 15,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 8,
+          "day": 19,
+          "yearOffset": 0
+        }
+      ]
+    },
+    {
+      "id": "jmi_mca",
+      "applyUrl": "https://admission.jmi.ac.in/",
+      "events": [
+        {
+          "kind": "formOpen",
+          "month": 2,
+          "day": 20,
+          "yearOffset": 0
+        },
+        {
+          "kind": "formClose",
+          "month": 4,
+          "day": 10,
+          "yearOffset": 0
+        },
+        {
+          "kind": "exam",
+          "month": 6,
+          "day": 2,
+          "yearOffset": 0
+        },
+        {
+          "kind": "result",
+          "month": 6,
+          "day": 25,
+          "yearOffset": 0
+        }
+      ]
+    }
+  ]
+}
